@@ -5096,3 +5096,738 @@ web.ali213.net##body > a:nth-child(33)
 
 ! 9/28/2017, 2:16:35 AM http://web.ali213.net/news/html/2017-09/357526.html
 web.ali213.net##body > a:nth-child(34)
+
+! 9/28/2017, 10:16:43 AM http://desktops.pconline.com.cn/788/7884081_all.html
+desktops.pconline.com.cn###ad456837
+
+! 9/28/2017, 10:17:02 AM http://desktops.pconline.com.cn/788/7884081_all.html
+desktops.pconline.com.cn###ad333899Wrap
+
+! 9/28/2017, 10:17:17 AM http://desktops.pconline.com.cn/788/7884081_all.html
+desktops.pconline.com.cn##.jsAdAdTipWrap
+
+! 9/28/2017, 10:17:58 AM http://desktops.pconline.com.cn/788/7884081_all.html
+desktops.pconline.com.cn##.ivy
+
+! 9/28/2017, 10:18:13 AM http://desktops.pconline.com.cn/788/7884081_all.html
+desktops.pconline.com.cn##.ivy-330
+
+
+! 9/28/2017, 10:16:43 AM http://desktops.pconline.com.cn/788/7884081_all.html
+pconline.com.cn###ad456837
+
+! 9/28/2017, 10:17:02 AM http://desktops.pconline.com.cn/788/7884081_all.html
+pconline.com.cn###ad333899Wrap
+
+! 9/28/2017, 10:17:17 AM http://desktops.pconline.com.cn/788/7884081_all.html
+pconline.com.cn##.jsAdAdTipWrap
+
+! 9/28/2017, 10:17:58 AM http://desktops.pconline.com.cn/788/7884081_all.html
+pconline.com.cn##.ivy
+
+! 9/28/2017, 10:18:13 AM http://desktops.pconline.com.cn/788/7884081_all.html
+pconline.com.cn##.ivy-330
+
+! 9/28/2017, 10:19:33 AM http://diy.zol.com.cn/609/6091765.html
+diy.zol.com.cn##.gmine_ad
+
+! 9/28/2017, 10:20:42 AM http://www.zol.com.cn/
+www.zol.com.cn##.ad-box
+
+! 9/28/2017, 10:21:30 AM http://www.zol.com.cn/
+www.zol.com.cn##.clearfix.wrapper:nth-of-type(5)
+
+! 9/28/2017, 10:22:00 AM http://www.zol.com/
+www.zol.com##.apple-active
+
+! 9/28/2017, 10:22:56 AM http://dcdv.zol.com.cn/657/6575632.html
+dcdv.zol.com.cn##.ad-box
+
+! 9/28/2017, 10:23:21 AM http://dcdv.zol.com.cn/657/6575632.html
+dcdv.zol.com.cn##.nomotu
+
+! 9/28/2017, 10:23:59 AM http://news.zol.com.cn/
+news.zol.com.cn##.ad_div
+
+! 9/28/2017, 10:24:29 AM http://news.zol.com.cn/658/6580316.html
+news.zol.com.cn##.ad-box
+
+! 9/28/2017, 10:24:39 AM http://news.zol.com.cn/658/6580316.html
+news.zol.com.cn##.gmine_ad
+
+! 9/28/2017, 10:25:12 AM http://news.zol.com.cn/658/6580316.html
+news.zol.com.cn##.ad-topwrap
+
+! 9/28/2017, 10:25:47 AM http://bbs.zol.com.cn/
+bbs.zol.com.cn##.ad_div
+
+! 9/28/2017, 10:26:20 AM http://bbs.zol.com.cn/sjbbs/d34130_174506.html
+bbs.zol.com.cn###bbsAd
+
+! 9/28/2017, 10:26:47 AM http://bbs.zol.com.cn/sjbbs/d34130_174506.html
+bbs.zol.com.cn##.fixed-login-inner
+
+! 9/28/2017, 10:27:00 AM http://bbs.zol.com.cn/sjbbs/d34130_174506.html
+bbs.zol.com.cn###btmLoginLayer
+
+! 9/28/2017, 10:27:19 AM http://bbs.zol.com.cn/sjbbs/d34130_174506.html
+bbs.zol.com.cn##.zclip
+
+! 9/28/2017, 10:28:02 AM http://xiazai.zol.com.cn/
+xiazai.zol.com.cn##.clearfix.wrapper:nth-of-type(5)
+
+! 9/28/2017, 10:28:35 AM http://jd.zol.com.cn/
+jd.zol.com.cn##.ad_div
+
+! 9/28/2017, 10:28:57 AM http://jd.zol.com.cn/
+jd.zol.com.cn##.gmine_ad
+
+! 9/28/2017, 10:29:51 AM http://oa.zol.com.cn/
+oa.zol.com.cn##.wrap__AD.gmine_ad
+
+! 9/28/2017, 10:30:39 AM http://pad.zol.com.cn/
+pad.zol.com.cn##.clearfix.wrapper:nth-of-type(4)
+
+! 9/28/2017, 10:31:06 AM http://nb.zol.com.cn/
+nb.zol.com.cn##.wrap__AD.gmine_ad
+
+! 9/28/2017, 10:31:34 AM http://mobile.zol.com.cn/
+mobile.zol.com.cn##.wrap__AD.gmine_ad
+
+! 9/28/2017, 10:32:23 AM http://mobile.zol.com.cn/
+mobile.zol.com.cn##.gmine_ad
+
+! 9/28/2017, 10:32:54 AM http://tech.sina.com.cn/pc/2011-06-09/01001781086.shtml
+tech.sina.com.cn##.zhitou_sheng
+
+! 9/28/2017, 10:34:29 AM http://tech.sina.com.cn/pc/2011-06-09/01001781086.shtml
+tech.sina.com.cn###PublicRelation13
+
+! 9/28/2017, 10:34:46 AM http://tech.sina.com.cn/pc/2011-06-09/01001781086.shtml
+tech.sina.com.cn##.adNone
+
+! 9/28/2017, 10:35:35 AM http://tech.sina.com.cn/pc/2011-06-09/01001781086.shtml
+tech.sina.com.cn##.adNone
+
+! 9/28/2017, 10:36:01 AM http://tech.sina.com.cn/pc/2011-06-09/01001781086.shtml
+tech.sina.com.cn###page > div.Main > div.sidebar > iframe:nth-child(22)
+
+! 9/28/2017, 10:36:27 AM http://digi.163.com/15/0430/05/AOE4T66M00162DSP.html
+digi.163.com##.post_adtop_main
+
+! 9/28/2017, 10:37:01 AM http://news.163.com/17/0928/14/CVE6NAJB000187VE.html#f=post1603_tab_news
+news.163.com##.post_adtop_main
+
+! 9/28/2017, 10:38:05 AM http://war.163.com/
+war.163.com##body > div.second2016_wrap.war_second_wrap > div.second2016_content > div.ns_area.second2016_top_ad.channel_relative_2016.channel_relative_2016_lh
+
+! 9/28/2017, 10:39:31 AM http://ent.163.com/movie/
+ent.163.com##.idx_top_ad
+
+! 9/28/2017, 10:39:48 AM http://ent.163.com/tv/
+ent.163.com##.idx_top_ad
+
+! 9/28/2017, 10:50:29 AM http://sports.163.com/
+sports.163.com##.topad.area
+
+! 9/28/2017, 10:51:29 AM http://auto.163.com/
+auto.163.com###coupletLeft
+
+! 9/28/2017, 10:51:50 AM http://auto.163.com/
+auto.163.com###tcldivtf2
+
+! 9/28/2017, 10:52:21 AM http://auto.163.com/
+auto.163.com##body > div.view-index > div:nth-child(9)
+
+! 9/28/2017, 10:53:01 AM http://tech.163.com/
+tech.163.com##.top-gg-area
+
+! 9/28/2017, 10:53:43 AM http://mobile.163.com/
+mobile.163.com##.topad
+
+! 9/28/2017, 10:54:10 AM http://digi.163.com/
+digi.163.com##.topad.area
+
+! 9/28/2017, 10:54:52 AM http://lady.163.com/
+lady.163.com##.top-gg-area
+
+! 9/28/2017, 10:55:23 AM http://home.163.com/
+home.163.com##.head-advertisement
+
+! 9/28/2017, 10:56:04 AM http://caipiao.163.com/#from=dh
+caipiao.163.com##.iDialogLayout
+
+! 9/28/2017, 10:56:11 AM http://caipiao.163.com/#from=dh
+||pimg1.126.net/caipiao_info/images/headFigure/indexPngAd/2017051517LC23527476.jpg$image
+
+! 9/28/2017, 10:56:17 AM http://caipiao.163.com/#from=dh
+caipiao.163.com##.linkpngAd2017051517LC23527476
+
+! 9/28/2017, 10:56:42 AM http://caipiao.163.com/#from=dh
+caipiao.163.com##.iDialog
+
+! 9/28/2017, 10:57:12 AM http://caipiao.163.com/#from=dh
+caipiao.163.com###indexSmallPic
+
+! 9/28/2017, 10:57:38 AM http://caipiao.163.com/#from=dh
+caipiao.163.com###couplet4
+
+! 9/28/2017, 10:57:53 AM http://caipiao.163.com/#from=dh
+caipiao.163.com###couplet5
+
+! 9/28/2017, 10:58:15 AM http://bbs.caipiao.163.com/39358.html
+bbs.caipiao.163.com###couplet4
+
+! 9/28/2017, 10:58:33 AM http://bbs.caipiao.163.com/39358.html
+bbs.caipiao.163.com###couplet5
+
+! 9/28/2017, 10:59:07 AM http://cai.163.com/article/17/0928/16/CVECTFHH00052DT2.html
+cai.163.com###couplet5
+
+! 9/28/2017, 10:59:13 AM http://cai.163.com/article/17/0928/16/CVECTFHH00052DT2.html
+cai.163.com###couplet4
+
+! 9/28/2017, 11:00:26 AM http://money.163.com/17/0928/15/CVE94M8P002580PL.html
+money.163.com##.post_header
+
+! 9/28/2017, 11:00:44 AM http://money.163.com/17/0928/15/CVE94M8P002580PL.html
+money.163.com##.ad_hover_href
+
+! 9/28/2017, 11:00:54 AM http://money.163.com/17/0928/15/CVE94M8P002580PL.html
+money.163.com##.gg300
+
+! 9/28/2017, 11:02:03 AM http://money.163.com/stock/
+money.163.com##.topnews_ad
+
+! 9/28/2017, 11:02:26 AM http://money.163.com/stock/
+money.163.com##.news_iframe_ad
+
+
+
+! 10/4/2017, 1:10:23 AM http://www.fanxian.com/
+www.fanxian.com##.step.main
+
+! 10/4/2017, 1:11:21 AM http://www.oicq88.com/
+www.oicq88.com##body > div.main > div:nth-child(1)
+
+! 10/4/2017, 1:12:40 AM http://www.cncrk.com/
+www.cncrk.com##.bdgg
+
+! 10/4/2017, 1:12:58 AM http://www.cncrk.com/
+www.cncrk.com###cs_right_bottom
+
+! 10/4/2017, 1:13:51 AM http://www.meiguoshenpo.com/
+www.meiguoshenpo.com##.info_1000_90.mt_20
+
+! 10/4/2017, 1:14:12 AM http://www.meiguoshenpo.com/
+www.meiguoshenpo.com##.mt_20.info_995_80
+
+! 10/4/2017, 5:22:37 PM https://www.digitalocean.com/community/tutorials/how-to-use-jmeter-to-record-test-scenarios
+www.digitalocean.com###newsletter-signup-dialog
+
+! 10/4/2017, 5:29:09 PM https://freewechat.com/a/MzI4OTMzODg1MA==/2247485922/4
+freewechat.com###hot-articles
+
+! 10/4/2017, 9:46:31 PM https://www.dnvod.tv/Movie/detail.aspx?id=qWa6Gq71pnE%3D
+www.dnvod.tv##.tgg
+
+! 10/4/2017, 9:46:58 PM https://www.dnvod.tv/Movie/detail.aspx?id=qWa6Gq71pnE%3D
+www.dnvod.tv###msg_content
+
+! 10/4/2017, 9:47:47 PM http://www.tiyimo.com/movie/4220.html
+www.tiyimo.com###myModal
+
+! 10/4/2017, 9:48:01 PM http://www.tiyimo.com/movie/4220.html
+www.tiyimo.com##.in.fade.modal-backdrop
+
+! 10/4/2017, 9:48:51 PM https://www.dnvod.tv/Movie/Readyplay.aspx?id=HKAaT9Eq874%3d
+www.dnvod.tv##.ads-control
+
+! 10/4/2017, 9:49:07 PM https://www.dnvod.tv/Movie/Readyplay.aspx?id=HKAaT9Eq874%3d
+www.dnvod.tv##.bfq-r
+
+! 10/4/2017, 9:49:28 PM https://www.dnvod.tv/Movie/Readyplay.aspx?id=HKAaT9Eq874%3d
+www.dnvod.tv##.ggw-l
+
+! 10/4/2017, 9:50:04 PM https://www.dnvod.tv/
+www.dnvod.tv##.ggw
+
+! 10/4/2017, 9:50:20 PM https://www.dnvod.tv/
+www.dnvod.tv##.gg
+
+! 10/4/2017, 9:51:18 PM http://www.duonao.tv/News/List?cid=0,3&label=%E7%94%B5%E7%AB%9E,%E7%BD%91%E6%B8%B8,%E5%8D%95%E6%9C%BA,%E4%B8%BB%E6%9C%BA,%E6%89%8B%E6%B8%B8&category=%E6%B8%B8%E6%88%8F
+www.duonao.tv##.r-gg
+
+! 10/4/2017, 10:42:25 PM http://www.aboluowang.com/2015/0627/576855.html
+www.aboluowang.com##.lslfk
+
+! 10/5/2017, 12:55:31 AM http://news.4399.com/gonglue/tailaruiya/xinde/m/432385.html
+news.4399.com##.conad
+
+! 10/11/2017, 3:54:23 PM http://tech.sina.com.cn/it/2017-10-11/doc-ifymrcmn0206515.shtml
+tech.sina.com.cn##.sinaads
+
+! 10/11/2017, 3:54:48 PM http://tech.sina.com.cn/it/2017-10-11/doc-ifymrcmn0206515.shtml
+tech.sina.com.cn##.ad
+
+! 10/11/2017, 3:56:41 PM http://tech.sina.com.cn/i/2017-10-11/doc-ifymrcmn0248941.shtml?cre=tianyi&mod=pctech&loc=20&r=25&doct=0&rfunc=100&tj=none&tr=25
+tech.sina.com.cn###pl_feedAd
+
+! 10/11/2017, 3:56:55 PM http://tech.sina.com.cn/i/2017-10-11/doc-ifymrcmn0248941.shtml?cre=tianyi&mod=pctech&loc=20&r=25&doct=0&rfunc=100&tj=none&tr=25
+tech.sina.com.cn##.sinaads-box-fix
+
+! 10/11/2017, 3:57:31 PM http://tech.sina.com.cn/i/2017-10-11/doc-ifymrcmn0248941.shtml?cre=tianyi&mod=pctech&loc=20&r=25&doct=0&rfunc=100&tj=none&tr=25
+tech.sina.com.cn###wrapOuter > div.content_wrappr_left > div:nth-child(9)
+
+! 7/1/2017, 2:06:40 PM http://t66y.com/htm_data/26/1707/2492819.html
+t66y.com##.tips
+
+! 7/1/2017, 2:06:52 PM http://t66y.com/htm_data/26/1707/2492819.html
+t66y.com##blockquote:nth-of-type(1)
+
+! 7/1/2017, 2:07:17 PM http://t66y.com/htm_data/26/1707/2492819.html
+t66y.com##.quote:nth-of-type(1)
+
+! 7/1/2017, 2:07:23 PM http://t66y.com/htm_data/26/1707/2492819.html
+t66y.com##blockquote:nth-of-type(2)
+
+! 7/1/2017, 2:07:28 PM http://t66y.com/htm_data/26/1707/2492819.html
+t66y.com##.quote:nth-of-type(2)
+
+! 7/1/2017, 2:07:44 PM http://t66y.com/htm_data/26/1707/2492819.html
+t66y.com##blockquote:nth-of-type(4)
+
+! 7/1/2017, 2:07:49 PM http://t66y.com/htm_data/26/1707/2492819.html
+t66y.com##.quote:nth-of-type(4)
+
+! 7/1/2017, 2:08:05 PM http://t66y.com/htm_data/26/1707/2492818.html
+t66y.com##blockquote:nth-of-type(3)
+
+! 7/1/2017, 2:08:21 PM http://t66y.com/htm_data/26/1707/2492818.html
+t66y.com##.quote:nth-of-type(3)
+
+! 7/1/2017, 2:08:53 PM http://t66y.com/htm_data/26/1707/2492818.html
+t66y.com###footer
+
+! 7/1/2017, 2:09:35 PM http://t66y.com/htm_data/26/1707/2492444.html
+t66y.com##a[href^="../../../post.php"]:nth-of-type(4)
+
+! 7/1/2017, 2:09:49 PM http://t66y.com/thread0806.php?fid=26
+t66y.com##a[href^="hack.php"]:nth-of-type(5)
+
+! 7/1/2017, 2:09:57 PM http://t66y.com/thread0806.php?fid=26
+t66y.com###td_hack
+
+! 7/1/2017, 2:10:37 PM http://t66y.com/thread0806.php?fid=2
+t66y.com##.tr1 > .t_one
+
+! 7/1/2017, 2:11:14 PM http://t66y.com/htm_data/22/1707/2492867.html
+t66y.com##.tipad
+
+! 7/1/2017, 2:12:57 PM https://www.pornhub.com/
+||ci.phncdn.com/pics/promobanners/000/000/401/1498755520.png?cache=2017062828$image
+
+! 7/1/2017, 2:13:03 PM https://www.pornhub.com/
+www.pornhub.com###abAlert
+
+! 7/1/2017, 2:13:18 PM https://www.pornhub.com/
+www.pornhub.com##.le2ryne6ezumhf
+
+! 7/1/2017, 2:13:26 PM https://www.pornhub.com/
+www.pornhub.com##.footer-title
+
+! 7/1/2017, 2:13:30 PM https://www.pornhub.com/
+www.pornhub.com##.footer
+
+! 9/28/2017, 11:07:02 AM http://money.163.com/17/0828/07/CSTK4EVR0025814T.html
+money.163.com##.post_end_ad
+
+! 9/28/2017, 11:07:25 AM http://money.163.com/17/0828/07/CSTK4EVR0025814T.html
+money.163.com##.post_content_endad
+
+! 9/28/2017, 11:08:05 AM http://news.163.com/17/0928/17/CVEHS1KA0001875P.html#f=post1603_tab_news
+news.163.com##.gg300
+
+! 9/28/2017, 11:08:23 AM http://news.163.com/17/0928/17/CVEHS1KA0001875P.html#f=post1603_tab_news
+news.163.com##.post_end_ad
+
+! 9/28/2017, 11:08:47 AM http://news.163.com/17/0928/17/CVEHS1KA0001875P.html#f=post1603_tab_news
+news.163.com##.post_content_endad
+
+! 9/28/2017, 4:16:08 PM https://gitee.com/?from=gitee-email-bulletin
+gitee.com##.float-left-box
+
+! 9/28/2017, 5:10:50 PM http://www.maiziedu.com/article/24584/
+www.maiziedu.com##.hidemsgAfter
+
+! 9/29/2017, 12:32:27 AM http://www.mama.cn/
+www.mama.cn###topcolumn
+
+! 9/29/2017, 2:07:14 PM https://codeutopia.net/blog/2013/05/27/3-ways-to-get-backend-data-to-angularjs/
+codeutopia.net###om-bo1xbhcf2huej3bh
+
+! 9/29/2017, 2:08:10 PM https://codeutopia.net/blog/2013/05/27/3-ways-to-get-backend-data-to-angularjs/
+codeutopia.net##.mailmunch-topbar-iframe
+
+! 9/29/2017, 2:08:22 PM https://codeutopia.net/blog/2013/05/27/3-ways-to-get-backend-data-to-angularjs/
+codeutopia.net###mailmunch-topbar-pusher
+
+! 9/29/2017, 4:24:36 PM https://www.sitepoint.com/d3-js-data-visualizations/
+www.sitepoint.com###maestro-646
+
+! 9/29/2017, 4:59:16 PM http://sony.it168.com/forum.php?mod=viewthread&tid=422305&extra=page%3D1&ordertype=1
+sony.it168.com###ADV_20074
+
+! 9/29/2017, 4:59:27 PM http://sony.it168.com/forum.php?mod=viewthread&tid=422305&extra=page%3D1&ordertype=1
+sony.it168.com###nv_forum > div:nth-child(3)
+
+! 9/30/2017, 4:25:33 PM http://kikinote.net/article/136054.html
+kikinote.net###popup
+
+! 10/1/2017, 2:29:15 PM http://news.sina.com.cn/
+news.sina.com.cn##.sinaads
+
+! 10/1/2017, 2:29:34 PM http://news.sina.com.cn/
+news.sina.com.cn###sinaadToolkitBox2
+
+! 10/1/2017, 2:29:47 PM http://news.sina.com.cn/
+news.sina.com.cn###sinaadToolkitBox1
+
+! 10/1/2017, 2:30:05 PM http://news.sina.com.cn/
+news.sina.com.cn##.sinaads-float
+
+! 10/1/2017, 2:30:39 PM http://news.sina.com.cn/
+news.sina.com.cn###sinaadToolkitBox0
+
+! 10/1/2017, 2:32:53 PM http://www.chinanews.com/gn/2017/10-01/8345102.shtml
+www.chinanews.com###qizhi_div980
+
+! 10/1/2017, 2:34:02 PM http://finance.sina.com.cn/
+finance.sina.com.cn##.m-p1-lb1-ad
+
+! 10/1/2017, 2:34:23 PM http://finance.sina.com.cn/
+finance.sina.com.cn###sinaadToolkitBox2
+
+! 10/1/2017, 2:34:33 PM http://finance.sina.com.cn/
+finance.sina.com.cn###sinaadToolkitBox1
+
+! 10/1/2017, 2:35:07 PM http://finance.sina.com.cn/
+finance.sina.com.cn##.m-top-ads
+
+! 10/1/2017, 2:35:55 PM http://mobile.sina.com.cn/
+mobile.sina.com.cn##.sinaads
+
+! 10/1/2017, 2:36:13 PM http://mobile.sina.com.cn/
+mobile.sina.com.cn###div_ADtop
+
+! 10/1/2017, 2:36:41 PM http://sports.sina.com.cn/
+sports.sina.com.cn###sinaadToolkitBox2
+
+! 10/1/2017, 2:36:53 PM http://sports.sina.com.cn/
+sports.sina.com.cn###sinaadToolkitBox1
+
+! 10/1/2017, 2:37:12 PM http://sports.sina.com.cn/
+sports.sina.com.cn###sinaadToolkitBox0
+
+! 10/1/2017, 2:37:41 PM http://sports.sina.com.cn/
+sports.sina.com.cn##.sinaads
+
+! 10/1/2017, 2:38:12 PM http://ent.sina.com.cn/
+ent.sina.com.cn##.sinaads
+
+! 10/1/2017, 2:38:26 PM http://ent.sina.com.cn/
+ent.sina.com.cn###sinaadToolkitBox1
+
+! 10/1/2017, 2:38:38 PM http://ent.sina.com.cn/
+ent.sina.com.cn###sinaadToolkitBox1
+
+! 10/1/2017, 2:38:46 PM http://ent.sina.com.cn/
+ent.sina.com.cn###sinaadToolkitBox0
+
+! 10/1/2017, 2:39:08 PM http://baby.sina.com.cn/
+baby.sina.com.cn###sinaadToolkitBox1
+
+! 10/1/2017, 2:39:17 PM http://baby.sina.com.cn/
+baby.sina.com.cn###sinaadToolkitBox0
+
+! 10/1/2017, 2:39:25 PM http://baby.sina.com.cn/
+baby.sina.com.cn###sinaadToolkitBox1
+
+! 10/1/2017, 2:40:02 PM http://travel.sina.com.cn/
+travel.sina.com.cn##.sinaads
+
+! 10/1/2017, 2:40:26 PM http://games.sina.com.cn/
+games.sina.com.cn##.gamead1
+
+! 10/1/2017, 2:40:52 PM http://games.sina.com.cn/
+games.sina.com.cn###bgAdWrap
+
+! 10/1/2017, 2:41:08 PM http://games.sina.com.cn/
+games.sina.com.cn##.gamead1
+
+! 10/1/2017, 2:41:20 PM http://games.sina.com.cn/
+games.sina.com.cn##.gamead2014
+
+! 10/1/2017, 10:28:42 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com###dingad
+
+! 10/1/2017, 10:29:28 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com##.fabiaokuang
+
+! 10/1/2017, 10:30:16 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com###divFunction28
+
+! 10/1/2017, 10:30:36 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com###divFunction18
+
+! 10/1/2017, 10:31:19 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com##.ad-widget-imageplus-sticker
+
+! 10/1/2017, 10:31:49 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com##.ad-widget-imageplus-sticker-box-showing
+
+! 10/1/2017, 10:32:01 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com##.ad-widget-imageplus-sticker-bg
+
+! 10/1/2017, 10:32:14 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com###w-6tsnxm-body
+
+! 10/1/2017, 10:32:27 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com###w-6tsnxm
+
+! 10/1/2017, 10:35:45 PM http://www.zywjw.com/
+www.zywjw.com##.reedd
+
+! 10/1/2017, 10:36:16 PM http://www.zywjw.com/post/2142.html
+www.zywjw.com###w-6tsnxm
+
+! 10/2/2017, 11:50:42 AM http://www.edmontonchina.cn/forum.php?mod=viewthread&tid=792751
+www.edmontonchina.cn##.a_h.wp
+
+! 10/2/2017, 11:57:54 AM https://m.sohu.com/a/195917017_123753?_f=m-channel_8_feeds_16
+m.sohu.com##.top-bill-wrapper
+
+! 10/2/2017, 11:58:46 AM https://m.sohu.com/a/195917017_123753?_f=m-channel_8_feeds_16
+m.sohu.com##.sohu-bill-iframe
+
+! 10/2/2017, 12:01:44 PM https://m.sohu.com/a/195917017_123753?_f=m-channel_8_feeds_16
+m.sohu.com##.feed-item>a>img
+
+! 10/2/2017, 12:04:32 PM https://www.sohu.com/
+www.sohu.com##.left.god-head
+
+! 10/2/2017, 12:04:51 PM https://www.sohu.com/
+www.sohu.com##.area.clearfix.god_header
+
+! 10/2/2017, 12:40:48 PM http://www.jb51.net/article/64445.htm
+www.jb51.net##.logor.fr
+
+! 10/2/2017, 12:40:59 PM http://www.jb51.net/article/64445.htm
+www.jb51.net##.logom.fl
+
+! 10/2/2017, 12:41:17 PM http://www.jb51.net/article/64445.htm
+www.jb51.net##.mainlr
+
+! 10/2/2017, 12:41:41 PM http://www.jb51.net/article/64445.htm
+www.jb51.net##.adsbygoogle
+
+! 10/2/2017, 12:42:10 PM http://www.jb51.net/article/64445.htm
+www.jb51.net###contents > div > div.w300.fr > div:nth-child(3) > iframe
+
+! 10/2/2017, 12:42:33 PM http://www.jb51.net/article/64445.htm
+www.jb51.net###contents > div > div.w300.fr > div:nth-child(3)
+
+! 10/2/2017, 12:43:07 PM http://www.jb51.net/article/64445.htm
+www.jb51.net##.r300.clearfix.mt10
+
+! 10/2/2017, 12:43:29 PM http://www.jb51.net/article/64445.htm
+www.jb51.net##.lbd.clearfix
+
+! 10/2/2017, 12:44:36 PM http://www.jb51.net/shouce/
+www.jb51.net###logo_m
+
+! 10/2/2017, 12:44:49 PM http://www.jb51.net/shouce/
+www.jb51.net###logo_r
+
+! 10/2/2017, 12:45:47 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.fr.w300
+
+! 10/2/2017, 12:46:15 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.side-box.mtb10
+
+! 10/2/2017, 12:46:25 PM http://www.jb51.net/books/20194.html
+www.jb51.net###w-2vaz1h
+
+! 10/2/2017, 12:46:32 PM http://www.jb51.net/books/20194.html
+www.jb51.net###w-2vaz1h
+
+! 10/2/2017, 12:46:40 PM http://www.jb51.net/books/20194.html
+www.jb51.net###w-2vaz1h
+
+! 10/2/2017, 12:47:03 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.ad-download
+
+! 10/2/2017, 12:47:34 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.ad-widget-imageplus-sticker
+
+! 10/2/2017, 12:48:02 PM http://www.jb51.net/books/20194.html
+www.jb51.net###w-8l7z4
+
+! 10/2/2017, 12:48:22 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.ad-widget-imageplus-sticker-bg
+
+! 10/2/2017, 12:48:35 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.baiduimageplus-s-pa
+
+! 10/2/2017, 12:48:47 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.baiduimageplus-s-pa-bg
+
+! 10/2/2017, 12:48:59 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.baiduimageplus-s-pa-ct
+
+! 10/2/2017, 12:50:00 PM http://www.jb51.net/books/20194.html
+www.jb51.net##.down4.mt10
+
+! 10/2/2017, 12:51:21 PM http://outofmemory.cn/#csdn
+outofmemory.cn##.tgBar.wrap
+
+! 10/2/2017, 2:51:24 PM http://news.sohu.com/
+news.sohu.com##.ad-list
+
+! 10/2/2017, 2:52:10 PM http://news.sohu.com/
+news.sohu.com##.p-ad
+
+! 10/2/2017, 2:53:18 PM https://www.sohu.com/
+www.sohu.com##.god-main
+
+! 10/2/2017, 2:55:21 PM https://www.sohu.com/
+www.sohu.com##.list16 ul li:last-child
+
+! 10/2/2017, 2:55:46 PM https://www.sohu.com/
+www.sohu.com##.god-cut
+
+! 10/2/2017, 10:41:22 PM http://www.vpsxuexi.com/
+www.vpsxuexi.com###toptb
+
+! 10/3/2017, 1:24:08 AM https://www.frdic.com/dicts/fr/Quora
+www.frdic.com##.content.referenceWidth
+
+! 10/3/2017, 1:31:13 AM https://www.frdic.com/dicts/fr/Quora
+www.frdic.com###DRMTI2NTAw
+
+! 10/3/2017, 1:31:33 AM https://www.frdic.com/dicts/fr/Quora
+www.frdic.com###DTtopMTI2NTAw
+
+! 10/3/2017, 1:49:22 AM https://zh.forvo.com/word/quora/
+zh.forvo.com##.ad
+
+! 10/3/2017, 12:17:07 PM https://dzone.com/articles/java-findingsetting
+dzone.com###indianapolis-optin
+
+! 10/3/2017, 5:01:11 PM http://ww.xitek.com/
+ww.xitek.com##.ad
+
+! 10/3/2017, 5:01:31 PM http://ww.xitek.com/
+ww.xitek.com##.ad1
+
+! 10/3/2017, 6:45:13 PM http://www.xiuren.org/category/TuiGirl.html
+www.xiuren.org###la57
+
+! 10/3/2017, 6:46:33 PM http://www.xiuren.org/
+www.xiuren.org###s074
+
+! 10/3/2017, 7:06:16 PM http://economy.china.com/news/11173316/20171003/31540669.html
+economy.china.com###CH_MTL_10002
+
+! 10/3/2017, 7:10:37 PM http://funds.hexun.com/
+funds.hexun.com###zhaitongBanner
+
+! 10/3/2017, 7:10:56 PM http://funds.hexun.com/
+funds.hexun.com###tonglan_1
+
+! 10/3/2017, 7:11:12 PM http://funds.hexun.com/
+funds.hexun.com###tonglan_2
+
+! 10/3/2017, 7:11:27 PM http://funds.hexun.com/
+funds.hexun.com###tonglan_3
+
+! 10/3/2017, 7:11:43 PM http://funds.hexun.com/
+funds.hexun.com###tonglan_4
+
+! 10/3/2017, 7:12:38 PM http://finance.qianlong.com/
+finance.qianlong.com##.bnrTank
+
+! 10/3/2017, 7:13:29 PM http://finance.china.com.cn/
+finance.china.com.cn##.ab1
+
+! 10/3/2017, 7:13:52 PM http://finance.china.com.cn/
+finance.china.com.cn##.fr.pt10.mr10
+
+! 10/3/2017, 7:14:07 PM http://finance.china.com.cn/
+finance.china.com.cn##.abThr
+
+! 10/3/2017, 7:15:39 PM http://www.news.cn/fortune/
+www.news.cn##.domPC >div >ins
+
+! 10/3/2017, 7:16:17 PM http://finance.ce.cn/
+finance.ce.cn##.cealltopad
+
+! 10/3/2017, 7:16:31 PM http://finance.ce.cn/
+finance.ce.cn###cyscalltopad1
+
+! 10/3/2017, 7:17:12 PM http://finance.youth.cn/
+finance.youth.cn##.public_k.dg >a
+
+! 10/3/2017, 7:18:30 PM http://finance.ifeng.com/
+finance.ifeng.com##.gg.mt18.mb10
+
+! 10/3/2017, 7:19:10 PM http://economy.jxnews.com.cn/
+economy.jxnews.com.cn##.Container > object
+
+! 10/3/2017, 7:19:36 PM http://www.stockstar.com/
+www.stockstar.com##.much_ad
+
+! 10/3/2017, 7:21:32 PM http://dazong.hexun.com/
+dazong.hexun.com###topFullWidthBanner
+
+! 10/3/2017, 7:22:19 PM http://dazong.hexun.com/
+dazong.hexun.com###brandArea
+
+! 10/3/2017, 7:23:24 PM http://forex.hexun.com/
+forex.hexun.com##.bannAd
+
+! 10/3/2017, 7:24:00 PM http://bbs.hexun.com/
+bbs.hexun.com###leftFloatLogoShell01
+
+! 10/3/2017, 7:24:16 PM http://bbs.hexun.com/
+bbs.hexun.com###rightFloatLogoShell01
+
+! 10/3/2017, 7:24:44 PM http://blog.hexun.com/
+blog.hexun.com###leftFloatLogoShell01
+
+! 10/3/2017, 7:25:04 PM http://blog.hexun.com/
+blog.hexun.com###banner956x90_02
+
+! 10/3/2017, 7:25:26 PM http://news.hexun.com/
+news.hexun.com###tonglan_1
+
+! 10/3/2017, 7:25:57 PM http://news.hexun.com/
+news.hexun.com###tonglan_3 > iframe
+
+! 10/3/2017, 7:26:22 PM http://news.hexun.com/
+news.hexun.com###tonglan_7 > iframe
+
+! 10/3/2017, 7:27:29 PM http://www.xntt.com/?tn=hexun
+www.xntt.com###content > div.coor > div > div:nth-child(2) > table
+
+! 10/3/2017, 7:27:49 PM http://www.xntt.com/?tn=hexun
+www.xntt.com###content > div.coor > div > div:nth-child(3) > table > tbody > tr
+
+! 10/3/2017, 7:28:28 PM http://www.hangye5.com/
+www.hangye5.com###banner
+
+! 10/4/2017, 1:08:49 AM http://www.4399.com/
+www.4399.com##.skinlk-r
+
+! 10/4/2017, 1:09:01 AM http://www.4399.com/
+www.4399.com##.skinlk-l
