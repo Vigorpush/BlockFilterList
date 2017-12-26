@@ -1,3 +1,14 @@
+!Fix Google Analytics WebPage
+@@||google-analytics.com^
+@@||*$domain=analytics.google.com
+
+! 12/20/2017, 12:25:43 AM https://www.oschina.net/
+www.oschina.net##.banner_wrapper
+
+! 12/20/2017, 11:50:59 AM http://mini.eastday.com/a/171220142514479.html?qid=01335&vqid=5aSn54aK54yr5L6_5L6_5YGa57q45be-
+mini.eastday.com##.dsp_yxxf
+
+
 ! 6/6/2017, 11:40:47 PM http://www.dianyingbar.com/14358.html
 ||img.feitian001.com//img/r/dot.gif$image
 
