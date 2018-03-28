@@ -7158,3 +7158,24 @@ www.quora.com##.PromptsList
 ! 3/21/2018, 5:11:49 PM https://www.quora.com/Whats-the-most-ridiculously-over-engineered-piece-of-code-youve-seen
 www.quora.com##.condensed_ad_experiment
 
+! 3/25/2018, 8:15:54 PM https://www.dnvod.tv/Movie/detail.aspx?id=EtZ%2BUX1O5Hw%3D
+www.dnvod.tv##.aa
+
+! 3/26/2018, 12:34:42 AM http://www.shushu8.com/d/179.html
+www.shushu8.com##.ggad
+
+! 3/26/2018, 12:35:14 AM http://www.shushu8.com/d/179.html
+www.shushu8.com###lgVshow
+
+! 3/26/2018, 12:47:04 AM http://www.jjxsw.com/
+www.jjxsw.com###hengfu
+
+! 3/26/2018, 11:08:53 AM http://www.pincai.com/article/340725.htm
+www.pincai.com##.s_ctop
+
+! 3/26/2018, 11:10:05 AM http://www.pincai.com/article/340725.htm
+www.pincai.com##iframe
+
+! 3/27/2018, 11:14:10 AM https://tieba.baidu.com/f?kw=%E5%AE%89%E5%8D%93%E7%A0%B4%E8%A7%A3
+tieba.baidu.com###thread_list > li.xd4a2bf81f.clearfix
+
