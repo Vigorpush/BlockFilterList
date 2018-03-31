@@ -7179,3 +7179,30 @@ www.pincai.com##iframe
 ! 3/27/2018, 11:14:10 AM https://tieba.baidu.com/f?kw=%E5%AE%89%E5%8D%93%E7%A0%B4%E8%A7%A3
 tieba.baidu.com###thread_list > li.xd4a2bf81f.clearfix
 
+! 3/28/2018, 11:13:24 AM http://www.dealmoon.ca/VIP-Sale/193361.html
+www.dealmoon.ca##.google-ad-wrapper
+
+! 3/28/2018, 11:14:30 AM http://www.dealmoon.ca/39/193352.html
+www.dealmoon.ca##.ggw3
+
+! 3/28/2018, 11:14:41 AM http://www.dealmoon.ca/39/193352.html
+www.dealmoon.ca##.ggw
+
+! 3/29/2018, 1:02:56 AM https://nga.178.com/read.php?tid=5600166&rand=648
+nga.178.com###bbs_ads1ImgObj
+
+! 3/29/2018, 4:09:08 PM http://games.sina.com.cn/t/n/2016-12-17/fxytqax6274351.shtml
+games.sina.com.cn##.sinaads
+
+! 3/29/2018, 4:09:22 PM http://games.sina.com.cn/t/n/2016-12-17/fxytqax6274351.shtml
+games.sina.com.cn##.sinaads-done
+
+! 3/30/2018, 1:58:25 PM http://gl.ali213.net/html/2016-2/107291.html
+gl.ali213.net###tmp_ggao
+
+! 3/31/2018, 12:21:36 PM http://www.gamersky.com/Soft/Special/hp/
+www.gamersky.com##.onlyOneBgtgs
+
+! 3/31/2018, 12:29:23 PM http://www.3dmgame.com/news/201710/3696537.html
+www.3dmgame.com##.R1
+
