@@ -7206,3 +7206,117 @@ www.gamersky.com##.onlyOneBgtgs
 ! 3/31/2018, 12:29:23 PM http://www.3dmgame.com/news/201710/3696537.html
 www.3dmgame.com##.R1
 
+! 4/4/2018, 10:54:32 AM http://www.7edown.com/edu/article/soft_30650_1.html
+www.7edown.com##.ads2
+
+! 4/5/2018, 12:10:35 PM http://xclient.info/s/?t=ade358ce61eb27990097a65c44c1d8a52bc92e92
+xclient.info###abptip
+
+! 4/5/2018, 3:48:10 PM http://www.ufo-1.cn/article/201605/993.html
+www.ufo-1.cn##.banner
+
+! 4/10/2018, 11:38:11 PM http://www.yxdown.com/gonglue/68967.html
+www.yxdown.com###ad300x120
+
+! 4/10/2018, 11:38:33 PM http://www.yxdown.com/gonglue/68967.html
+www.yxdown.com##.jingcai
+
+! 4/10/2018, 11:38:51 PM http://www.yxdown.com/gonglue/68967.html
+www.yxdown.com###hot_sy
+
+! 4/10/2018, 11:39:00 PM http://www.yxdown.com/gonglue/68967.html
+www.yxdown.com##.jinghua
+
+! 4/10/2018, 11:42:04 PM http://www.paopaoche.net/gonglue/39904_all.html
+www.paopaoche.net##iframe
+
+! 4/10/2018, 11:47:46 PM http://www.paopaoche.net/gonglue/39904_all.html
+www.paopaoche.net###meinv
+
+! 4/10/2018, 11:47:54 PM http://www.paopaoche.net/gonglue/39904_all.html
+www.paopaoche.net###meinvToo
+
+! 4/11/2018, 10:43:19 AM https://www.laptopmag.com/articles/install-msata-ssd-tutorial
+www.laptopmag.com##iframe
+
+! 4/11/2018, 10:43:47 AM https://www.laptopmag.com/articles/install-msata-ssd-tutorial
+www.laptopmag.com###rightcol_middle_tmntag_inline_
+
+! 4/11/2018, 10:51:23 AM https://www.quora.com/Would-you-recommend-dual-booting-Windows-and-Linux-within-the-same-SSD
+www.quora.com###GbTSSH
+
+! 4/11/2018, 11:04:15 AM http://www.yunweipai.com/archives/403.html
+www.yunweipai.com##.ads-box1
+
+! 4/11/2018, 12:01:17 PM https://blog.csdn.net/qq_24369113/article/details/53179218
+blog.csdn.net###nav_show_top_stop
+
+! 4/11/2018, 12:26:34 PM https://superuser.com/questions/614548/automatic-backups-using-filezilla
+superuser.com###herobox
+
+! 4/11/2018, 5:11:11 PM http://www.pc841.com/shoujijiqiao/8786_all.html
+www.pc841.com##.middle-bar
+
+! 4/11/2018, 5:11:41 PM http://www.pc841.com/shoujijiqiao/8786_all.html
+www.pc841.com##.pull-right
+
+! 4/11/2018, 6:16:28 PM http://www.moofeel.com/
+www.moofeel.com##.a_t
+
+! 4/11/2018, 6:23:22 PM https://www.iplaysoft.com/music-spy.html
+www.iplaysoft.com##iframe
+
+! 4/11/2018, 6:23:40 PM https://www.iplaysoft.com/music-spy.html
+www.iplaysoft.com##.float-left
+
+! 4/11/2018, 11:44:38 PM http://yx.familydoctor.com.cn/a/201609/1296431.html
+yx.familydoctor.com.cn##.tonglanAdT
+
+! 4/11/2018, 11:44:51 PM http://yx.familydoctor.com.cn/a/201609/1296431.html
+yx.familydoctor.com.cn##.global-top-banner
+
+! 4/11/2018, 11:45:40 PM http://yx.familydoctor.com.cn/a/201609/1296431.html
+yx.familydoctor.com.cn##.adLeftPip
+
+! 4/13/2018, 12:16:45 AM http://pc.duowan.com/1801/378917603703.html
+pc.duowan.com##.dw-mini-popup-wrap
+
+! 4/15/2018, 3:15:02 PM http://netsecurity.51cto.com/art/201712/560720.htm
+netsecurity.51cto.com##.footer_mask
+
+! 4/16/2018, 11:43:57 AM http://htcui.com/7016.html
+htcui.com##.qqanimate
+
+! 4/17/2018, 5:34:30 PM http://www.bingdian001.com/?p=30
+www.bingdian001.com##iframe
+
+! 4/19/2018, 5:39:30 PM https://www.uisdc.com/which-responsive-frameworks-are-designers-using
+www.uisdc.com##.has_border
+
+! 4/20/2018, 6:35:27 PM http://www.ruanyifeng.com/blog/2016/09/software-architecture.html
+www.ruanyifeng.com###cre
+
+! 4/21/2018, 2:13:38 PM https://post.smzdm.com/p/473304/
+post.smzdm.com##.layer-center
+
+! 4/21/2018, 2:13:45 PM https://post.smzdm.com/p/473304/
+post.smzdm.com###footer_layer
+
+! 4/22/2018, 2:43:39 AM http://www.apppark.cn/t-788.html
+www.apppark.cn##.top-banner
+
+! 4/22/2018, 2:44:00 AM http://www.apppark.cn/t-788.html
+www.apppark.cn###qq
+
+! 4/22/2018, 4:50:27 PM http://www.51testing.com/html/blog.html
+www.51testing.com##.logo_right
+
+! 4/24/2018, 8:30:46 PM https://www.cw.com.tw/article/article.action?id=5062404
+www.cw.com.tw##.fixed.logInStatus.main.paywallAnnounce
+
+! 4/28/2018, 12:36:08 AM https://www.ijq.tv/yingshi/539.html
+www.ijq.tv###HMRichBox
+
+! 4/30/2018, 3:26:06 PM https://stackoverflow.com/questions/3710204/how-to-check-if-a-string-is-a-valid-json-string-in-javascript-without-using-try
+stackoverflow.com###clc-tlb
+
