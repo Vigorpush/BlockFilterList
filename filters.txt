@@ -7320,3 +7320,72 @@ www.ijq.tv###HMRichBox
 ! 4/30/2018, 3:26:06 PM https://stackoverflow.com/questions/3710204/how-to-check-if-a-string-is-a-valid-json-string-in-javascript-without-using-try
 stackoverflow.com###clc-tlb
 
+! 5/2/2018, 11:40:19 AM http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+javascriptissexy.com##.entry-content > .bovAcademy-ad
+
+! 5/6/2018, 12:15:17 AM http://www.360zhibo.com/
+www.360zhibo.com##.gg_info
+
+! 5/6/2018, 12:16:47 AM http://www.360zhibo.com/
+www.360zhibo.com##body > div.middiv > div:nth-child(1)
+
+! 5/6/2018, 12:20:10 AM http://www.qqzhibo.net/live/zuqiu/
+www.qqzhibo.net###ad_float_left
+
+! 5/6/2018, 12:20:17 AM http://www.qqzhibo.net/live/zuqiu/
+www.qqzhibo.net###ad_float_right
+
+! 5/12/2018, 2:57:31 PM https://juejin.im/entry/58b6414a128fe1006421bfa7
+juejin.im##.banner
+
+! 5/12/2018, 5:01:57 PM https://www.w3cplus.com/css3/imitating-calc-fallback-fixed-width-sidebar-in-responsive-layout.html
+www.w3cplus.com###content-ad
+
+! 5/24/2018, 12:56:59 AM https://game.giveawayoftheday.com/
+game.giveawayoftheday.com##.ads_inner
+
+! 5/26/2018, 6:48:44 PM https://blog.csdn.net/major_zhang/article/details/79154287
+blog.csdn.net###asideFooter
+
+! 5/28/2018, 1:21:37 AM http://yunjianfei.iteye.com/blog/2293102
+yunjianfei.iteye.com###layerd
+
+! 6/2/2018, 1:30:57 AM http://www.elecfans.com/emb/dsp/20171208598168.html
+www.elecfans.com###MiddleLeaderboard
+
+! 6/2/2018, 1:31:10 AM http://www.elecfans.com/emb/dsp/20171208598168.html
+www.elecfans.com###company-ad
+
+! 6/3/2018, 12:23:19 PM http://hovertree.com/h/bjaf/qjjx37kg.htm
+hovertree.com###gggg336x280a
+
+! 6/4/2018, 12:57:03 AM https://www.w3cschool.cn/angularjs/
+www.w3cschool.cn##.abox
+
+! 6/17/2018, 9:02:03 PM https://blog.csdn.net/qy1387/article/details/7752973
+blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
+
+! 6/18/2018, 9:40:09 PM http://saskey.com/portal.php?mod=topic&topicid=24
+||saskey.com/data/attachment/common/cf/094434tdh5nnz0vwdhhdda.png$image
+
+! 6/28/2018, 1:24:56 AM https://hwwebmail.mail.163.com/js6/main.jsp?sid=uAJVwuBMQCETBYlkShMMrlQAWhfkKhyq&df=mail163_letter#module=mbox.ListModule%7C%7B%22filter%22%3A%7B%22flags%22%3A%7B%22read%22%3Afalse%7D%7D%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%2C%22fids%22%3A%5B1%2C3%5D%7D
+hwwebmail.mail.163.com###\31 530163437072_AdDiv
+
+! 6/28/2018, 1:25:08 AM https://hwwebmail.mail.163.com/js6/main.jsp?sid=uAJVwuBMQCETBYlkShMMrlQAWhfkKhyq&df=mail163_letter#module=mbox.ListModule%7C%7B%22filter%22%3A%7B%22flags%22%3A%7B%22read%22%3Afalse%7D%7D%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%2C%22fids%22%3A%5B1%2C3%5D%7D
+hwwebmail.mail.163.com###_mail_component_207_207 > div
+
+! 7/1/2018, 8:23:05 PM https://hwwebmail.mail.163.com/js6/main.jsp?sid=bDyZOxziwMRZzkdSzoiizLvlGEZkYlBO&df=webmailyeah#module=options.LinkModule%7C%7B%22link%22%3A%22option_pop3%22%2C%22subModName%22%3A%22options.LinkModule%22%7D
+hwwebmail.mail.163.com##.plugin-2018WC
+
+! 7/1/2018, 8:23:55 PM https://hwwebmail.mail.163.com/js6/main.jsp?sid=bDyZOxziwMRZzkdSzoiizLvlGEZkYlBO&df=webmailyeah#module=options.LinkModule%7C%7B%22link%22%3A%22option_pop3%22%2C%22subModName%22%3A%22options.LinkModule%22%7D
+hwwebmail.mail.163.com###_mail_tabitem_2_50
+
+! 7/1/2018, 8:29:52 PM https://hwwebmail.mail.163.com/js6/main.jsp?sid=bDyZOxziwMRZzkdSzoiizLvlGEZkYlBO&df=email163#module=welcome.WelcomeModule%7C%7B%7D
+hwwebmail.mail.163.com##.gWel-promt.En0
+
+! 7/3/2018, 6:29:52 PM https://www.linkedin.com/in/vigorz/
+www.linkedin.com##.ad-banner
+
+! 7/3/2018, 6:30:04 PM https://www.linkedin.com/in/vigorz/
+www.linkedin.com##.ad-banner-container
+
