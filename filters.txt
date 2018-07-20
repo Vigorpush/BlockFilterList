@@ -7389,3 +7389,30 @@ www.linkedin.com##.ad-banner
 ! 7/3/2018, 6:30:04 PM https://www.linkedin.com/in/vigorz/
 www.linkedin.com##.ad-banner-container
 
+! 7/15/2018, 11:56:43 PM https://zhuanlan.zhihu.com/p/26600598
+zhuanlan.zhihu.com##.AdblockBanner
+
+! 7/18/2018, 11:00:33 AM https://www.joecolantonio.com/
+www.joecolantonio.com##.clearfix.cck > .csc
+
+! 7/18/2018, 11:01:25 AM https://www.joecolantonio.com/
+www.joecolantonio.com##body > div.flex-cnt > div > section > article > div > div.out.bmg.top.lightSec
+
+! 7/18/2018, 6:59:50 PM http://www.111cn.net/wy/js-ajax/107146.htm
+www.111cn.net###dui_lian_left
+
+! 7/18/2018, 7:00:17 PM http://www.111cn.net/wy/js-ajax/107146.htm
+www.111cn.net###dui_lian_right
+
+! 7/18/2018, 7:00:42 PM http://www.111cn.net/wy/js-ajax/107146.htm
+www.111cn.net###nav_btm_a
+
+! 7/19/2018, 5:59:17 PM https://www.techradar.com/au/news/wimbledon-2018-how-ibm-watson-is-serving-up-the-best-viewer-experience?linkId=54461010
+www.techradar.com##.optin-newsletter-footer
+
+! 7/19/2018, 10:07:39 PM http://www.mafengwo.cn/mdd/citylist/10062.html
+www.mafengwo.cn##.jGrowl-notification
+
+! 7/19/2018, 10:07:51 PM http://www.mafengwo.cn/mdd/citylist/10062.html
+www.mafengwo.cn##.jGrowl-notification
+
