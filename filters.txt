@@ -7416,3 +7416,117 @@ www.mafengwo.cn##.jGrowl-notification
 ! 7/19/2018, 10:07:51 PM http://www.mafengwo.cn/mdd/citylist/10062.html
 www.mafengwo.cn##.jGrowl-notification
 
+! 7/20/2018, 6:11:10 PM http://blog.sina.com.cn/s/blog_15bd73b8a0102xj5q.html
+blog.sina.com.cn##.sinaads
+
+! 7/20/2018, 6:11:50 PM http://blog.sina.com.cn/s/blog_15bd73b8a0102xj5q.html
+blog.sina.com.cn###_2881532124629195_panel
+
+! 7/21/2018, 3:24:22 PM https://www.softwaretestinghelp.com/
+www.softwaretestinghelp.com###text-36
+
+! 7/21/2018, 3:24:49 PM https://www.softwaretestinghelp.com/
+www.softwaretestinghelp.com###essbsocialfollowerscounterwidget-2
+
+! 7/21/2018, 3:25:15 PM https://www.softwaretestinghelp.com/
+www.softwaretestinghelp.com###custom_html-3
+
+! 7/21/2018, 3:32:43 PM https://sqa.stackexchange.com/
+sqa.stackexchange.com###js-gdpr-consent-banner
+
+! 7/22/2018, 8:14:28 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###html-reader-AD-5
+
+! 7/22/2018, 8:14:49 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###html-reader-AD-5
+
+! 7/22/2018, 8:15:00 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###html-reader-AD-5
+
+! 7/22/2018, 8:15:32 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com##.ad-logo
+
+! 7/22/2018, 8:16:14 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+||edu-ad-test-cdn.cdn.bcebos.com/2e41ef0c30625ed7da23d4ec81837124/cf4547f480cbb12bf0b6e42385c24781.jpg$image
+
+! 7/22/2018, 8:16:27 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###wkad21
+
+! 7/22/2018, 8:16:47 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###html-reader-our-ad-1
+
+! 7/22/2018, 8:17:19 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###html-reader-AD-3t4
+
+! 7/22/2018, 8:17:36 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###html-reader-AD-4t5
+
+! 7/22/2018, 8:19:10 PM https://wenku.baidu.com/view/cef1db0d0975f46526d3e143.html
+wenku.baidu.com###share-tips
+
+! 7/22/2018, 8:20:52 PM https://www.w3cplus.com/css/about-html-semantics-front-end-architecture.html
+www.w3cplus.com###content-ad
+
+! 7/22/2018, 8:21:18 PM https://www.w3cplus.com/css/about-html-semantics-front-end-architecture.html
+www.w3cplus.com##.ct-ad-article
+
+! 7/22/2018, 8:34:16 PM https://www.w3cplus.com/css/about-html-semantics-front-end-architecture.html
+www.w3cplus.com###zhi12-shang-exp-2
+
+! 7/22/2018, 8:34:39 PM https://www.w3cplus.com/css/about-html-semantics-front-end-architecture.html
+www.w3cplus.com###zhi12-shang-exp
+
+! 7/23/2018, 1:48:09 AM https://36kr.com/newsflashes
+36kr.com##.J_appDownloadWrapper
+
+! 7/25/2018, 5:53:43 PM http://www.woshipm.com/pd/1154949.html?utm_source=gank.io%2Fxiandu&utm_medium=website
+www.woshipm.com##.article-topAd
+
+! 7/25/2018, 6:13:57 PM http://www.infoq.com/cn/articles/the-4-focus-areas-of-devsecops
+www.infoq.com##.sponsored_links_section_i18n
+
+! 7/25/2018, 6:14:48 PM http://www.infoq.com/cn/articles/the-4-focus-areas-of-devsecops
+www.infoq.com##.f_sponsorbox_top_2
+
+! 7/25/2018, 6:16:48 PM http://www.infoq.com/cn/articles/the-4-focus-areas-of-devsecops
+www.infoq.com##.f_sponsorbox_top_2
+
+! 7/25/2018, 6:39:26 PM https://juejin.im/entry/5b5553fce51d45191e0cf6a7
+juejin.im##.index-book-collect
+
+! 7/25/2018, 6:39:53 PM https://juejin.im/entry/5b5553fce51d45191e0cf6a7
+juejin.im##.app-link
+
+! 7/25/2018, 6:40:05 PM https://juejin.im/entry/5b5553fce51d45191e0cf6a7
+juejin.im##.app-download-sidebar-block
+
+! 7/25/2018, 6:40:46 PM https://juejin.im/entry/5b5553fce51d45191e0cf6a7
+juejin.im##.wechat-sidebar-block
+
+! 7/25/2018, 10:43:50 PM http://hao.caibaojian.com/
+hao.caibaojian.com##.modal-body
+
+! 7/25/2018, 10:44:02 PM http://hao.caibaojian.com/
+hao.caibaojian.com###myModal
+
+! 7/25/2018, 10:44:21 PM http://hao.caibaojian.com/
+hao.caibaojian.com##.in.modal-backdrop
+
+! 7/25/2018, 10:51:37 PM https://toutiao.io/
+toutiao.io###welcome-app-banner
+
+! 7/26/2018, 12:27:23 PM http://group.jobbole.com/30915/?utm_source=web.jobbole.com&utm_medium=sidebar-group-topic
+group.jobbole.com###sidebar-recommend
+
+! 7/26/2018, 1:55:49 PM https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
+www.smashingmagazine.com###cookiebanner
+
+! 7/26/2018, 2:25:05 PM https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
+www.smashingmagazine.com##.sponsors
+
+! 7/26/2018, 2:25:48 PM https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
+www.smashingmagazine.com##.product-panel
+
+! 7/26/2018, 2:27:16 PM https://www.guru99.com/angularjs-testing-unit.html
+www.guru99.com##.portland-background
+
