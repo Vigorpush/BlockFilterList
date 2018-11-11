@@ -35697,3 +35697,321 @@ www.88ys.tv##.leaveNavInfo
 ! 8/12/2018, 6:55:05 PM http://www.ckck.tv/Player_73393_9_23_2.html
 www.ckck.tv##.play-help
 
+! 8/20/2018, 8:28:32 PM https://iask.sina.com.cn/b/12773874.html
+iask.sina.com.cn##.issues-item
+
+! 8/20/2018, 8:28:39 PM https://iask.sina.com.cn/b/12773874.html
+iask.sina.com.cn###q_detail_right_1
+
+! 8/20/2018, 8:29:34 PM https://iask.sina.com.cn/b/12773874.html
+iask.sina.com.cn###q_detail_A11
+
+! 8/21/2018, 10:24:34 AM https://medium.com/the-mission/modern-polymath-81f882ce52db
+medium.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-sizeFullWidth.u-bottom0.u-fixed
+
+! 8/21/2018, 10:37:00 AM https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+engineering.videoblocks.com##.js-stickyFooter
+
+! 8/22/2018, 11:29:21 PM http://www.7y7.com/jiankang/47/234747.html
+www.7y7.com##iframe
+
+! 8/22/2018, 11:34:50 PM http://www.zuitt.com/fanhouduzitengzhangqizenmeban/
+www.zuitt.com##.con-r
+
+! 8/22/2018, 11:43:43 PM http://www.zuitt.com/fanhouduzitengzhangqizenmeban/
+www.zuitt.com##.category-featured-ad
+
+! 8/23/2018, 1:37:28 PM https://work.chron.com/5-important-aspects-job-6301.html
+work.chron.com###top-300
+
+! 8/23/2018, 1:37:48 PM https://work.chron.com/5-important-aspects-job-6301.html
+work.chron.com###TnRwhbkw-1
+
+! 8/23/2018, 1:38:00 PM https://work.chron.com/5-important-aspects-job-6301.html
+work.chron.com##.s2nPlayerFrame
+
+! 8/23/2018, 1:38:05 PM https://work.chron.com/5-important-aspects-job-6301.html
+work.chron.com##.k-TnRwhbkw.s2nFriendlyFrame
+
+! 8/23/2018, 11:52:46 PM http://blog.51cto.com/techlife/94167
+blog.51cto.com###topbanner14
+
+! 8/25/2018, 7:48:12 PM http://8maple.ru/270903/
+||8maple.ru/8drama_yahoo/ad300x600.php$subdocument
+
+! 8/25/2018, 7:49:39 PM http://8maple.ru/
+||8maple.ru/8drama_yahoo/geyahoo5.php$subdocument
+
+! 8/29/2018, 5:35:30 PM https://www.duonao.tv/
+www.duonao.tv##.gg
+
+! 8/30/2018, 12:59:18 AM http://www.china3158.com/school/665.html
+www.china3158.com##.right
+
+! 9/2/2018, 12:42:13 AM https://www.cnblogs.com/aggsite/topviews
+www.cnblogs.com###cnblogs_a1
+
+! 9/5/2018, 10:03:39 PM http://www.psjia.com/photoshop/design/2018/0612/10985.html
+www.psjia.com##.ad650x148
+
+! 9/9/2018, 6:02:25 PM http://uav.xinhuanet.com/2017-10/24/c_129725959.htm
+uav.xinhuanet.com###YCADS_MASK_153653752313382
+
+! 9/9/2018, 6:03:18 PM http://uav.xinhuanet.com/2017-10/24/c_129725959.htm
+uav.xinhuanet.com##.sz-ad
+
+! 9/9/2018, 6:03:39 PM http://uav.xinhuanet.com/2017-10/24/c_129725959.htm
+uav.xinhuanet.com##.cj-ad
+
+! 9/9/2018, 6:03:58 PM http://uav.xinhuanet.com/2017-10/24/c_129725959.htm
+uav.xinhuanet.com##.jr-ad
+
+! 9/9/2018, 6:04:09 PM http://uav.xinhuanet.com/2017-10/24/c_129725959.htm
+uav.xinhuanet.com##.h-p2-ad3
+
+! 9/9/2018, 6:04:51 PM http://uav.xinhuanet.com/2017-10/24/c_129725959.htm
+uav.xinhuanet.com##.ad
+
+! 9/13/2018, 9:28:11 PM https://blog.csdn.net/soft2buy/article/details/73457474
+blog.csdn.net##.T0.clearfix._4paradigm_box
+
+! 9/13/2018, 9:28:30 PM https://blog.csdn.net/soft2buy/article/details/73457474
+blog.csdn.net##.p4course_target
+
+! 9/22/2018, 3:21:53 PM https://blog.csdn.net/tobebetterprogrammer/article/details/52619539
+blog.csdn.net##newsfeed
+
+! 9/22/2018, 3:22:09 PM https://blog.csdn.net/tobebetterprogrammer/article/details/52619539
+blog.csdn.net##.recommend-ad-box
+
+! 9/22/2018, 3:22:33 PM https://blog.csdn.net/tobebetterprogrammer/article/details/52619539
+blog.csdn.net##newsfeed
+
+! 9/22/2018, 3:23:51 PM https://blog.csdn.net/tobebetterprogrammer/article/details/52619539
+||p3.ssl.qhimg.com/t01539d86c446cfd22b.png$image
+
+! 9/22/2018, 3:24:02 PM https://blog.csdn.net/tobebetterprogrammer/article/details/52619539
+blog.csdn.net###QIHOO__INTERACTIVE_PLUGIN1537651231157
+
+! 9/22/2018, 3:24:10 PM https://blog.csdn.net/tobebetterprogrammer/article/details/52619539
+||img-ads.csdn.net/2016/201608021757063065.png$image
+
+! 9/22/2018, 3:25:12 PM https://blog.csdn.net/tobebetterprogrammer/article/details/52619539
+blog.csdn.net##._360_interactive.bdsharebuttonbox
+
+! 9/22/2018, 5:57:39 PM https://news.china.com/socialgd/10000169/20180922/33978536_all.html
+||ress.dxpmedia.com/Real/8228/222/RBC1018-100x100-SC.JPG$image
+
+! 9/22/2018, 5:57:44 PM https://news.china.com/socialgd/10000169/20180922/33978536_all.html
+news.china.com###icast5_cPM1304282084_crn1
+
+! 9/22/2018, 8:22:25 PM http://www.ruanyifeng.com/blog/2013/10/register.html
+www.ruanyifeng.com###alpha-inner > div:nth-of-type(2)
+
+! 9/26/2018, 1:47:36 PM https://www.jianshu.com/p/c1015f5ffa74
+www.jianshu.com###web-note-ad-1
+
+! 9/26/2018, 1:48:01 PM https://www.jianshu.com/p/c1015f5ffa74
+www.jianshu.com###web-note-ad-fixed
+
+! 9/27/2018, 4:10:21 PM http://www.ruanyifeng.com/blog/
+www.ruanyifeng.com###alpha-inner > div:nth-of-type(3)
+
+! 9/27/2018, 4:10:30 PM http://www.ruanyifeng.com/blog/
+www.ruanyifeng.com##.module.module-categories:nth-of-type(2)
+
+! 9/28/2018, 8:41:39 PM http://home.51cto.com/msg/info?t=send&id=17858&repid=17858
+||static1.51cto.com/home/web/images/vip.png$image
+
+! 9/28/2018, 8:42:02 PM http://home.51cto.com/msg/info?t=send&id=17858&repid=17858
+home.51cto.com##.msg_ad
+
+! 9/28/2018, 8:42:23 PM http://home.51cto.com/home
+||static3.51cto.com/home/web/images/vip.png$image
+
+! 9/28/2018, 9:16:55 PM http://www.jobbole.com/
+www.jobbole.com###leaderboard
+
+! 9/28/2018, 9:17:01 PM http://www.jobbole.com/
+||wx4.sinaimg.cn/mw690/bfdcef89gy1fq547egfzkj208c03cjrs.jpg$image
+
+! 9/28/2018, 11:05:25 PM http://caibaojian.com/
+caibaojian.com##.da_nomargin.da_container
+
+! 9/30/2018, 12:57:14 PM https://www.bilibili.com/
+www.bilibili.com##.gg-floor-module
+
+! 9/30/2018, 12:57:26 PM https://www.bilibili.com/
+www.bilibili.com###fixed_app_download
+
+! 9/30/2018, 3:13:08 PM http://wowenda.com/search?wd=%E8%B6%85%E6%B8%85%E7%89%88+%E7%A5%9E%E9%9B%95%E4%BE%A0%E4%BE%A3&so_md5key=31481acdbfdc127a4599dc27726ec4c2
+wowenda.com##iframe
+
+! 9/30/2018, 3:13:16 PM http://wowenda.com/search?wd=%E8%B6%85%E6%B8%85%E7%89%88+%E7%A5%9E%E9%9B%95%E4%BE%A0%E4%BE%A3&so_md5key=31481acdbfdc127a4599dc27726ec4c2
+wowenda.com###tanxssp_con_mm_113468001_13054102_106888026
+
+! 9/30/2018, 3:13:25 PM http://wowenda.com/search?wd=%E8%B6%85%E6%B8%85%E7%89%88+%E7%A5%9E%E9%9B%95%E4%BE%A0%E4%BE%A3&so_md5key=31481acdbfdc127a4599dc27726ec4c2
+wowenda.com###tanxssp-outer-conmm_113468001_13054102_106888026
+
+! 9/30/2018, 3:13:31 PM http://wowenda.com/search?wd=%E8%B6%85%E6%B8%85%E7%89%88+%E7%A5%9E%E9%9B%95%E4%BE%A0%E4%BE%A3&so_md5key=31481acdbfdc127a4599dc27726ec4c2
+||img.alicdn.com/tps/i4/TB1lcLIGXXXXXchXXXX.ZwDGFXX-43-13.gif$image
+
+! 9/30/2018, 3:15:09 PM http://www.panduoduo.net/
+www.panduoduo.net##iframe
+
+! 9/30/2018, 3:15:16 PM http://www.panduoduo.net/
+www.panduoduo.net###mvdiv_2164852_holder
+
+! 9/30/2018, 3:15:23 PM http://www.panduoduo.net/
+www.panduoduo.net##.sep.container > .index-page
+
+! 9/30/2018, 3:15:31 PM http://www.panduoduo.net/
+www.panduoduo.net##.container:nth-of-type(10) > .sep15
+
+! 10/1/2018, 1:02:50 AM https://bbs.csdn.net/topics/390895014
+bbs.csdn.net###bd_ad_2
+
+! 10/1/2018, 1:03:28 AM https://bbs.csdn.net/topics/390895014
+bbs.csdn.net##.mediav_ad
+
+! 10/1/2018, 1:03:49 AM https://bbs.csdn.net/topics/390895014
+bbs.csdn.net##.bbs_feed_ad_box
+
+! 10/3/2018, 9:35:08 PM http://wemedia.ifeng.com/62036217/wemedia.shtml
+wemedia.ifeng.com##.shareAD
+
+! 10/3/2018, 9:40:32 PM http://www.xinhuanet.com/fortune/2018-08/31/c_1123362571.htm
+www.xinhuanet.com###YCADS395_1538624386696821
+
+! 10/3/2018, 9:40:41 PM http://www.xinhuanet.com/fortune/2018-08/31/c_1123362571.htm
+www.xinhuanet.com##.l-ad-1
+
+! 10/3/2018, 9:47:02 PM https://tv.2345.com/detail/54255.html
+tv.2345.com##iframe
+
+! 10/3/2018, 9:47:08 PM https://tv.2345.com/detail/54255.html
+tv.2345.com##.otherSeries > div
+
+! 10/3/2018, 9:47:13 PM https://tv.2345.com/detail/54255.html
+tv.2345.com###tuijian_ad
+
+! 10/5/2018, 1:17:17 AM https://www.jb51.net/photoshop/557028.html
+www.jb51.net##iframe
+
+! 10/5/2018, 1:17:45 AM https://uiiiuiii.com/photoshop/12124276.html
+uiiiuiii.com##.singleTop
+
+! 10/5/2018, 1:18:32 AM https://uiiiuiii.com/photoshop/12124276.html
+uiiiuiii.com##.spark_rm
+
+! 10/5/2018, 1:21:20 AM https://www.jb51.net/
+www.jb51.net##body > div.main.mt10.bgf > div.ithree.cf > div> a > img
+
+! 10/5/2018, 1:22:31 AM https://www.jb51.net/
+www.jb51.net##div.main.bgf > div > a
+
+! 10/7/2018, 1:02:24 AM https://blog.csdn.net/caisini_vc/article/details/48465731
+blog.csdn.net##._4paradigm_box
+
+! 10/7/2018, 1:02:58 AM https://blog.csdn.net/caisini_vc/article/details/48465731
+blog.csdn.net##.type_hot_word
+
+! 10/8/2018, 1:02:31 PM https://www.bilibili.com/
+www.bilibili.com##.adpos
+
+! 10/14/2018, 10:40:03 AM https://www.oschina.net/question/437227_51491
+www.oschina.net##.detail_banner_ad_bg
+
+! 10/15/2018, 9:26:56 PM https://baike.baidu.com/item/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%A5%B3%E5%84%BF%E5%9B%BD/20784683
+baike.baidu.com###side_box_unionAd
+
+! 10/26/2018, 11:57:11 PM http://persevere.iteye.com/blog/1734730
+persevere.iteye.com##iframe
+
+! 10/26/2018, 11:57:25 PM http://persevere.iteye.com/blog/1734730
+persevere.iteye.com###layerd
+
+! 10/26/2018, 11:57:36 PM http://persevere.iteye.com/blog/1734730
+persevere.iteye.com###ad_abc
+
+! 10/26/2018, 11:58:10 PM http://persevere.iteye.com/blog/1734730
+persevere.iteye.com##a[href^="http://www.baidu.com/cb.php"]
+
+! 10/30/2018, 2:44:57 PM https://www.toutiao.com/a6618185844832338445/
+www.toutiao.com###J_ad_baidu_bottom
+
+! 10/30/2018, 2:45:37 PM https://www.alikz.com/12811.html
+www.alikz.com##.abc-site.abc-pc
+
+! 11/5/2018, 10:42:06 PM http://dongruan00.iteye.com/blog/2090116
+dongruan00.iteye.com##iframe
+
+! 11/5/2018, 10:42:20 PM http://dongruan00.iteye.com/blog/2090116
+dongruan00.iteye.com###layerd
+
+! 11/5/2018, 10:42:27 PM http://dongruan00.iteye.com/blog/2090116
+dongruan00.iteye.com###ad_pop
+
+! 11/7/2018, 11:11:48 PM https://www.7down.com/soft/177223.html
+www.7down.com##iframe
+
+! 11/7/2018, 11:21:17 PM https://download.csdn.net/
+download.csdn.net###kp_box_521
+
+! 11/7/2018, 11:21:30 PM https://download.csdn.net/
+download.csdn.net###kp_box_524
+
+! 11/7/2018, 11:21:53 PM https://download.csdn.net/
+download.csdn.net###kp_box_527
+
+! 11/7/2018, 11:28:48 PM https://download.csdn.net/download/i_o_fly/10772311
+download.csdn.net##iframe
+
+! 11/7/2018, 11:29:28 PM https://download.csdn.net/
+download.csdn.net##iframe
+
+! 11/7/2018, 11:30:53 PM http://www.iteye.com/
+www.iteye.com###gg
+
+! 11/7/2018, 11:31:19 PM http://www.iteye.com/
+www.iteye.com##.tuiguang
+
+! 11/7/2018, 11:35:13 PM https://download.csdn.net/
+download.csdn.net###kp_box_518
+
+! 11/7/2018, 11:35:33 PM https://download.csdn.net/
+download.csdn.net###kp_box_522
+
+! 11/7/2018, 11:35:41 PM https://download.csdn.net/
+download.csdn.net###kp_box_528
+
+! 11/7/2018, 11:36:28 PM https://download.csdn.net/
+download.csdn.net###kp_box_520
+
+! 11/7/2018, 11:36:42 PM https://download.csdn.net/
+download.csdn.net###kp_box_525
+
+! 11/7/2018, 11:37:27 PM https://download.csdn.net/
+download.csdn.net###kp_box_529 > div
+
+! 11/8/2018, 3:04:09 PM http://di201yao.iteye.com/blog/310292
+di201yao.iteye.com##iframe
+
+! 11/8/2018, 3:04:17 PM http://di201yao.iteye.com/blog/310292
+di201yao.iteye.com###layerd
+
+! 11/8/2018, 4:18:05 PM http://developer.51cto.com/art/200612/37224.htm
+developer.51cto.com##iframe
+
+! 11/8/2018, 4:18:18 PM http://developer.51cto.com/art/200612/37224.htm
+developer.51cto.com##.m_l.fl.g_26 > .bor:nth-of-type(6)
+
+! 11/10/2018, 1:57:28 AM http://www.uc129.com/xiazai/
+www.uc129.com##iframe
+
+! 11/10/2018, 11:56:44 PM https://yq.aliyun.com/articles/163420
+yq.aliyun.com##.yq-a-r-bottom
+
+! 11/10/2018, 11:57:31 PM https://yq.aliyun.com/articles/163420
+yq.aliyun.com##body > div.yq-main > div.yq-main-left.yq-blog-detail > a > img
+
