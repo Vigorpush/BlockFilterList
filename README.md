@@ -10,7 +10,7 @@ A Personal filter list which will cover much more ads on several websites.
 * Chinese forums in Canadian - 在加拿大的中文论坛：约克论坛等
 
 
-##撰写方法
+## 撰写方法
 
 本规则基于[通用的拦截规则---Adblock Plus 过滤规则的撰写办法](https://adblockplus.org/zh_CN/filters)，通过分析页面后，使用CSS Selector定位广告的DOM的位置所制作的。
 
